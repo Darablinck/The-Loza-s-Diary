@@ -1,0 +1,8 @@
+name = "lozadiary"
+main = "src/index.js"
+compatibility_date = "2026-08-31"
+node_compat = true
+
+# Build settings
+[build]
+command = "npm install"
